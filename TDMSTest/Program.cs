@@ -9,6 +9,7 @@ namespace TDMSTest
 {
     class Program
     {
+
         static string fileName = @"C:\Users\dawa\Downloads\01_04_2017-115521_Log_7.tdms";
 
         static void Main(string[] args)
