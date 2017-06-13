@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace TDMSTest
 {
+    /// <summary>
+    /// Reference : http://www.ni.com/white-paper/5696/en/
+    /// </summary>
     public class Reader: IDisposable
     {
         private readonly BinaryReader reader;
